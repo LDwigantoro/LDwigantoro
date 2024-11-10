@@ -1,5 +1,4 @@
 - 👋 Hi, I’m leo
-- 👀 I’m interested in software engineering and robotic process automation
+- 👀 I’m interested in Project management, software engineering, and robotic process automation
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on building project using golang
 - 📫 How to reach me leonardo.dwigantoro@gmail.com
